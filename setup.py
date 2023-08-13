@@ -4,7 +4,7 @@ REQUIRES = [
     'records',
     'structlog',
     'sqlalchemy',
-    'allure'
+    'allure-pytest'
 ]
 
 setup(
